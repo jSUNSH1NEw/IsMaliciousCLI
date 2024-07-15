@@ -36,10 +36,10 @@ and it need to be refered in the lists folder to make the script work fine
 
 ## TODO 
 
-Desc Staic : Rentré une ou un groupe d'ip ou de domains afin de savoir si il/elle est malicieu(xse)
+Description Static check : Rentré une ou un groupe d'ip ou de domains afin de savoir si il/elle est malicieu(xse)
 
-Desc Dynamic  : Collectez les infos des call ouvert sur les differente interface reseaux
-Crée une copie avec les infos dans un tableaux md 
+Description Dynamic check  : Collectez les infos des call ouvert sur differente interface reseaux
+Crée une copie avec les infos dans un tableaux md qui sont ensuite concorder par rapport au listes 
 
 
 Static Check
