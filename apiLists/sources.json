@@ -1,0 +1,2875 @@
+[
+    {
+        "name": "Fortinet Firewall AA",
+        "type": "ip",
+        "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/main/blacklist_ips_for_fortinet_firewall_aa.txt"
+    },
+    {
+        "name": "Fortinet Firewall AB",
+        "type": "ip",
+        "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/main/blacklist_ips_for_fortinet_firewall_ab.txt"
+    },
+    {
+        "name": "Botnets, Zombies, Scanner, Spam IPs",
+        "type": "ip",
+        "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/main/botnets_zombies_scanner_spam_ips.txt"
+    },
+    {
+        "name": "Botnets, Zombies, Scanner, Spam IPs IPv6",
+        "type": "ip",
+        "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/main/botnets_zombies_scanner_spam_ips_ipv6.txt"
+    },
+    {
+        "category": "scam",
+        "name": "Scam Blocklist",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "Duggy Tuxy - Phishing scam domains",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/duggytuxy/phishing_scam_domains/main/phishing_scam_domains.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "Phishing Army | The Blocklist to filter Phishing",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "Phishing Hosts Blocklist Malware Filter",
+        "type": "domain",
+        "url": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt"
+    },
+    {
+        "category": "spam",
+        "name": "StopForumSpam - Toxic domains whole",
+        "type": "domain",
+        "url": "https://www.stopforumspam.com/downloads/toxic_domains_whole.txt"
+    },
+    {
+        "category": "abuse",
+        "name": "The Block List Project - Abuse",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/abuse-nl.txt"
+    },
+    {
+        "category": "ads",
+        "name": "The Block List Project - Ads",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/ads-nl.txt"
+    },
+    {
+        "category": "crypto",
+        "name": "The Block List Project - Crypto",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/crypto-nl.txt"
+    },
+    {
+        "category": "drugs",
+        "name": "The Block List Project - Drugs",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/drugs-nl.txt"
+    },
+    {
+        "name": "The Block List Project - Everything",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/everything-nl.txt"
+    },
+    {
+        "category": "social-media",
+        "name": "The Block List Project - Facebook",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/facebook-nl.txt"
+    },
+    {
+        "category": "fraud",
+        "name": "The Block List Project - Fraud",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/fraud-nl.txt"
+    },
+    {
+        "category": "gambling",
+        "name": "The Block List Project - Gambling",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt"
+    },
+    {
+        "category": "malware",
+        "name": "The Block List Project - Malware",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/malware-nl.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "The Block List Project - Phishing",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/phishing-nl.txt"
+    },
+    {
+        "category": "piracy",
+        "name": "The Block List Project - Piracy",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/piracy-nl.txt"
+    },
+    {
+        "name": "The Block List Project - Porn",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/porn-nl.txt"
+    },
+    {
+        "name": "The Block List Project - Ransomware",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/ransomware-nl.txt"
+    },
+    {
+        "category": "redirect",
+        "name": "The Block List Project - Redirect",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/redirect-nl.txt"
+    },
+    {
+        "category": "scam",
+        "name": "The Block List Project - Scam",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/scam-nl.txt"
+    },
+    {
+        "category": "social-media",
+        "name": "The Block List Project - TikTok",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/tiktok-nl.txt"
+    },
+    {
+        "category": "torrent",
+        "name": "The Block List Project - Torrent",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/torrent-nl.txt"
+    },
+    {
+        "category": "tracking",
+        "name": "The Block List Project - Tracking",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/tracking-nl.txt"
+    },
+    {
+        "name": "Blackbook Official List",
+        "type": "domain",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt"
+    },
+    {
+        "name": "KROGZA Phishing Database - Phishing Links",
+        "type": "domain",
+        "category": "phishing",
+        "url": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-links.txt"
+    },
+    {
+        "name": "KROGZA Phishing Database - Phishing Domains",
+        "type": "domain",
+        "category": "phishing",
+        "url": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/ALL-phishing-domains.txt"
+    },
+    {
+        "name": "IOCIUM - Dangerous Domains",
+        "type": "domain",
+        "category": "phishing",
+        "url": "https://raw.githubusercontent.com/iocium/download.dangerous.domains/main/list.txt"
+    },
+    {
+        "name": "HaGeZi's Ultimate DNS Blocklist",
+        "type": "domain",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt"
+    },
+    {
+        "name": "MARCOUX - Malicious Domains AA",
+        "type": "domain",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/romainmarcoux/malicious-domains/main/full-domains-aa.txt"
+    },
+    {
+        "name": "MARCOUX - Malicious Domains AB",
+        "type": "domain",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/romainmarcoux/malicious-domains/main/full-domains-ab.txt"
+    },
+    {
+        "name": "NANDUWASTAKEN - Discord Scam Links",
+        "type": "domain",
+        "category": "scam",
+        "url": "https://github.com/NanduWasTaken/Discord-Scam-Links"
+    },
+    {
+        "name": "HYDER - Combined DNS List",
+        "type": "domain",
+        "category": "phishing",
+        "url": "https://raw.githubusercontent.com/hyder365/combined-dns-list/master/combined.txt"
+    },
+    {
+        "name": "ACORTE - AntiSpam Domains",
+        "type": "domain",
+        "category": "spam",
+        "url": "https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-domains.txt"
+    },
+    {
+        "name": "AntiScam Squad - Crypto Scam",
+        "type": "domain",
+        "category": "scam",
+        "url": "https://raw.githubusercontent.com/AntiScam-Squad/pi-hole/main/crypto_scam.txt"
+    },
+    {
+        "name": "LAMA - Scam Blocklist",
+        "type": "domain",
+        "category": "scam",
+        "url": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt"
+    },
+    {
+        "name": "BLACKCAT - Malicious Links",
+        "type": "domain",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/13MrBlackCat13/Malicious-Links/main/malicious_domains.txt"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/alienvault_reputation.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/asprox_c2.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_banjori.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_bebloh.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_c2.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_cl.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_cryptowall.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_dircrypt.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_dyre.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_geodo.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_hesperbot.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_matsnu.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_necurs.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_p2pgoz.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_pushdo.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_pykspa.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_qakbot.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_ramnit.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_ranbyus.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_simda.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_suppobox.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_symmi.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_tinba.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_volatile.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bbcan177_ms1.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bbcan177_ms3.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bds_atif.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_blockchain_info_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_blockchain_info_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_blockchain_info_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_nodes.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_nodes_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_nodes_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_nodes_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_apache.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_bots.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_bruteforce.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_ftp.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_imap.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_mail.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_sip.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_ssh.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_strongips.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_net_ua.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botvrij_dst.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botvrij_src.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bruteforceblocker.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ciarmy.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cidr_report_bogons.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleanmx_phishing.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleanmx_viruses.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_new.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_new_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_new_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_new_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_top20.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_updated.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_updated_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_updated_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_updated_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/coinbl_hosts.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/coinbl_hosts_browser.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/coinbl_hosts_optional.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/coinbl_ips.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cruzit_web_attacks.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cta_cryptowall.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/darklist_de.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/datacenters.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dm_tor.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_1d.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_30d.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_7d.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_top_1000.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dyndns_ponmocup.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_14072015_com.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_14072015q_com.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_22072014a_com.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_22072014b_com.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_22072014c_com.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_atomictrivia_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_auth_update_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_burmundisoul_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_crazyerror_su.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_dagestanskiiviskis_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_differentia_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_disorderstatus_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_dorttlokolrt_com.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_downs1_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_ebankoalalusys_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_emptyarray_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_fioartd_com.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_getarohirodrons_com.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_hasanhashsde_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_inleet_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_islamislamdi_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_krnqlwlplttc_com.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_maddox1_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_manning1_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_misteryherson_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_mysebstarion_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_smartfoodsglutenfree_kz.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_venerologvasan93_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/esentire_volaya_ru.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_block.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_botcc.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_compromised.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_dshield.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_spamhaus.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_tor.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/feodo.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/feodo_badips.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_abusers_1d.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_abusers_30d.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_anonymous.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level4.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_proxies.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webclient.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webserver.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/gpf_comics.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/graphiclineweb.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/greensnow.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/haley_ssh.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/hphosts_ats.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/hphosts_emd.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/hphosts_exp.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/hphosts_fsa.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/hphosts_grm.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/hphosts_hfs.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/hphosts_hjk.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/hphosts_mmt.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/hphosts_pha.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/hphosts_psh.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/hphosts_wrz.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_abuse_palevo.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_abuse_spyeye.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_abuse_zeus.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_ciarmy_malicious.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_cidr_report_bogons.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_cruzit_web_attacks.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_isp_aol.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_isp_att.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_isp_cablevision.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_isp_charter.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_isp_comcast.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_isp_embarq.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_isp_qwest.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_isp_sprint.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_isp_suddenlink.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_isp_twc.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_isp_verizon.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_malc0de.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_onion_router.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_activision.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_apple.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_blizzard.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_crowd_control.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_electronic_arts.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_joost.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_linden_lab.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_logmein.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_ncsoft.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_nintendo.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_pandora.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_pirate_bay.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_punkbuster.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_riot_games.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_sony_online.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_square_enix.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_steam.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_ubisoft.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_org_xfire.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_pedophiles.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_spamhaus_drop.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_yoyo_adservers.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipblacklistcloud_recent.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipblacklistcloud_recent_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipblacklistcloud_recent_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipblacklistcloud_recent_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipblacklistcloud_top.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iw_spamlist.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iw_wormlist.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/lashback_ubl.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/malc0de.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/malwaredomainlist.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/maxmind_proxy_fraud.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/myip.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/nixspam.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_all_attack.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_all_bruteforce.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_all_ddosbot.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_all_dnsscan.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_all_spam.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_all_suspicious.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_all_wannacry.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_all_webscan.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_all_wormscan.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_high_attack.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_high_bruteforce.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_high_ddosbot.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_high_dnsscan.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_high_spam.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_high_suspicious.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_high_wannacry.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_high_webscan.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_high_wormscan.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/nt_malware_dns.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/nt_malware_http.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/nt_malware_irc.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/nt_ssh_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/nullsecure.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/packetmail.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/packetmail_emerging_ips.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/packetmail_mail.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/packetmail_ramnode.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_commenters.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_commenters_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_commenters_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_commenters_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_dictionary.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_dictionary_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_dictionary_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_dictionary_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_harvesters.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_harvesters_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_harvesters_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_harvesters_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_spammers.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_spammers_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_spammers_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_spammers_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxylists.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxylists_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxylists_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxylists_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxyspy_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxyspy_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxyspy_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxz.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxz_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxz_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxz_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/pushing_inertia_blocklist.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ransomware_cryptowall_ps.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ransomware_feed.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ransomware_locky_c2.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ransomware_locky_ps.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ransomware_online.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ransomware_rw.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ransomware_teslacrypt_ps.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ransomware_torrentlocker_c2.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ransomware_torrentlocker_ps.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sblam.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/set_file_timestamps.sh"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/snort_ipfilter.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/spamhaus_drop.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/spamhaus_edrop.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslbl.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslbl_aggressive.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslproxies.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslproxies_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslproxies_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslproxies_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_180d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_365d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_90d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_toxic.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/taichung.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/talosintel_ipfilter.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/threatcrowd.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/tor_exits.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/tor_exits_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/tor_exits_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/tor_exits_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/turris_greylist.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_dns.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_ftp.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_http.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_mailer.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_malware.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_ntp.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_rdp.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_smb.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_spam.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_ssh.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_telnet.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_unspecified.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urandomusto_vnc.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urlvir.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/uscert_hidden_cobra.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/voipbl.netset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/vxvault.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/xforce_bccs.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/xroxy.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/xroxy_1d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/xroxy_30d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/xroxy_7d.ipset"
+    },
+    {
+        "name": "FireHOL blocklist-ipsets",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/yoyo_adservers.ipset"
+    },
+    {
+        "name": "IPs Threat Intelligence Feed",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://raw.githubusercontent.com/scriptzteam/IP-BlockList-v4/master/ips.txt"
+    },
+    {
+        "name": "OpenDBL - ET Known",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://opendbl.net/lists/etknown.list"
+    },
+    {
+        "name": "OpenDBL - Tor Exit",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://opendbl.net/lists/tor-exit.list"
+    },
+    {
+        "name": "OpenDBL - Bruteforce",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://opendbl.net/lists/bruteforce.list"
+    },
+    {
+        "name": "OpenDBL - Blocklist all",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://opendbl.net/lists/blocklistde-all.list"
+    },
+    {
+        "name": "OpenDBL - Talos",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://opendbl.net/lists/talos.list"
+    },
+    {
+        "name": "OpenDBL - DShield",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://opendbl.net/lists/dshield.list"
+    },
+    {
+        "name": "OpenDBL - SSL Abuse Block",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://opendbl.net/lists/sslblock.list"
+    },
+    {
+        "name": "OpenDBL - IPSum Level 3",
+        "type": "ip",
+        "category": "malware",
+        "url": "https://opendbl.net/lists/ipsum.list"
+    },
+    {
+        "category": "phishing",
+        "name": "Hole.cert.pl - Phishing Domans List",
+        "type": "domain",
+        "url": "https://hole.cert.pl/domains/domains.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "AdguardDNS",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/AdguardDNS.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "Test",
+        "type": "domain",
+        "url": "https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "Easylist",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/Easylist.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "dom-bl",
+        "type": "domain",
+        "url": "http://www.joewein.net/dl/bl/dom-bl.txt"
+    },
+    {
+        "category": "malvertising",
+        "name": "simple_malvertising",
+        "type": "domain",
+        "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "hosts",
+        "type": "domain",
+        "url": "http://someonewhocares.org/hosts/hosts"
+    },
+    {
+        "category": "phishing",
+        "name": "ad_servers",
+        "type": "domain",
+        "url": "https://hosts-file.net/ad_servers.txt"
+    },
+    {
+        "category": "suspicious",
+        "name": "suspiciousdomains_Medium",
+        "type": "domain",
+        "url": "https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt"
+    },
+    {
+        "category": "cryptomining",
+        "name": "CoinBlockerLists",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts"
+    },
+    {
+        "category": "ads",
+        "name": "simple_ad",
+        "type": "domain",
+        "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "dbl",
+        "type": "domain",
+        "url": "https://dbl.oisd.nl/"
+    },
+    {
+        "category": "phishing",
+        "name": "exp",
+        "type": "domain",
+        "url": "https://hosts-file.net/exp.txt"
+    },
+    {
+        "category": "malware",
+        "name": "emd",
+        "type": "domain",
+        "url": "https://hosts-file.net/emd.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "psh",
+        "type": "domain",
+        "url": "https://hosts-file.net/psh.txt"
+    },
+    {
+        "category": "malware",
+        "name": "hostslist",
+        "type": "domain",
+        "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt"
+    },
+    {
+        "category": "malware",
+        "name": "Shalla-mal",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/Shalla-mal.txt"
+    },
+    {
+        "category": "ransomware",
+        "name": "RW_DOMBL",
+        "type": "domain",
+        "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "Airelle-hrsk",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/Airelle-hrsk.txt"
+    },
+    {
+        "category": "ransomware",
+        "name": "LY_C2_DOMBL",
+        "type": "domain",
+        "url": "https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt"
+    },
+    {
+        "category": "ransomware",
+        "name": "CW_C2_DOMBL",
+        "type": "domain",
+        "url": "https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt"
+    },
+    {
+        "category": "ransomware",
+        "name": "TC_C2_DOMBL",
+        "type": "domain",
+        "url": "https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt"
+    },
+    {
+        "category": "ransomware",
+        "name": "TL_C2_DOMBL",
+        "type": "domain",
+        "url": "https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt"
+    },
+    {
+        "category": "malware",
+        "name": "block",
+        "type": "domain",
+        "url": "http://www.networksec.org/grabbho/block.txt"
+    },
+    {
+        "category": "spyware",
+        "name": "win10_spy",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt"
+    },
+    {
+        "category": "privacy",
+        "name": "Easyprivacy",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/Easyprivacy.txt"
+    },
+    {
+        "category": "malware",
+        "name": "justdomains",
+        "type": "domain",
+        "url": "https://mirror1.malwaredomains.com/files/justdomains"
+    },
+    {
+        "category": "malware",
+        "name": "cameleon",
+        "type": "domain",
+        "url": "http://sysctl.org/cameleon/hosts"
+    },
+    {
+        "category": "tracking",
+        "name": "simple_tracking",
+        "type": "domain",
+        "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt"
+    },
+    {
+        "category": "tracking",
+        "name": "simple_tracking",
+        "type": "domain",
+        "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt"
+    },
+    {
+        "category": "ads",
+        "name": "simple_ad",
+        "type": "domain",
+        "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"
+    },
+    {
+        "category": "ads",
+        "name": "ad_servers",
+        "type": "domain",
+        "url": "https://hosts-file.net/ad_servers.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "grm",
+        "type": "domain",
+        "url": "https://hosts-file.net/grm.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "MinimalHostsBlocker",
+        "type": "domain",
+        "url": "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts"
+    },
+    {
+        "category": "phishing",
+        "name": "KADhosts",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts"
+    },
+    {
+        "category": "spam",
+        "name": "add.Spam",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts"
+    },
+    {
+        "category": "phishing",
+        "name": "w3kbl",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/static/w3kbl.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "BillStearns",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/BillStearns.txt"
+    },
+    {
+        "category": "ads",
+        "name": "Adaway",
+        "type": "domain",
+        "url": "https://adaway.org/hosts.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "AdguardDNS",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/AdguardDNS.txt"
+    },
+    {
+        "category": "ads",
+        "name": "adservers",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "Easylist",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/Easylist.txt"
+    },
+    {
+        "category": "ads",
+        "name": "pgl.yoyo.org",
+        "type": "domain",
+        "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0"
+    },
+    {
+        "category": "ads",
+        "name": "UncheckyAds",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts"
+    },
+    {
+        "category": "ads",
+        "name": "dg-ads",
+        "type": "domain",
+        "url": "https://www.squidblacklist.org/downloads/dg-ads.acl"
+    },
+    {
+        "category": "privacy",
+        "name": "Easyprivacy",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/Easyprivacy.txt"
+    },
+    {
+        "category": "ads",
+        "name": "Prigent-Ads",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/Prigent-Ads.txt"
+    },
+    {
+        "category": "tracking",
+        "name": "notrack-blocklist",
+        "type": "domain",
+        "url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt"
+    },
+    {
+        "category": "tracking",
+        "name": "add.2o7Net",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts"
+    },
+    {
+        "category": "spyware",
+        "name": "spy",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
+    },
+    {
+        "category": "malvertising",
+        "name": "simple_malvertising",
+        "type": "domain",
+        "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "exp",
+        "type": "domain",
+        "url": "https://hosts-file.net/exp.txt"
+    },
+    {
+        "category": "malware",
+        "name": "emd",
+        "type": "domain",
+        "url": "https://hosts-file.net/emd.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "psh",
+        "type": "domain",
+        "url": "https://hosts-file.net/psh.txt"
+    },
+    {
+        "category": "malware",
+        "name": "immortal_domains",
+        "type": "domain",
+        "url": "https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt"
+    },
+    {
+        "category": "APT",
+        "name": "Mandiant_APT1_Report_Appendix_D",
+        "type": "domain",
+        "url": "https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt"
+    },
+    {
+        "category": "malware",
+        "name": "Prigent-Malware",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/Prigent-Malware.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "Prigent-Phishing",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/Prigent-Phishing.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "phishing_army_blocklist_extended",
+        "type": "domain",
+        "url": "https://phishing.army/download/phishing_army_blocklist_extended.txt"
+    },
+    {
+        "category": "malware",
+        "name": "notrack-malware",
+        "type": "domain",
+        "url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt"
+    },
+    {
+        "category": "malware",
+        "name": "Shalla-mal",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/Shalla-mal.txt"
+    },
+    {
+        "category": "risk",
+        "name": "add.Risk",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts"
+    },
+    {
+        "category": "malware",
+        "name": "dg-malicious",
+        "type": "domain",
+        "url": "https://www.squidblacklist.org/downloads/dg-malicious.acl"
+    },
+    {
+        "category": "phishing",
+        "name": "TR-PhishingList",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt"
+    },
+    {
+        "category": "malware",
+        "name": "Airelle-hrsk",
+        "type": "domain",
+        "url": "https://v.firebog.net/hosts/Airelle-hrsk.txt"
+    },
+    {
+        "category": "ads",
+        "name": "SmartTV",
+        "type": "domain",
+        "url": "https://github.com/Perflyst/PiHoleBlocklist/blob/master/SmartTV.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "hosts",
+        "type": "domain",
+        "url": "https://someonewhocares.org/hosts/hosts"
+    },
+    {
+        "category": "ads",
+        "name": "pgl.yoyo.org",
+        "type": "domain",
+        "url": "http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0"
+    },
+    {
+        "category": "ads",
+        "name": "adblock_list",
+        "type": "domain",
+        "url": "http://jasonhill.co.uk/pfsense/ytadblock.txt"
+    },
+    {
+        "category": "cryptomining",
+        "name": "CoinBlockerLists",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts"
+    },
+    {
+        "category": "malware",
+        "name": "blocklist",
+        "type": "domain",
+        "url": "https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt"
+    },
+    {
+        "category": "ads",
+        "name": "adaway",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/adaway.org/list.txt"
+    },
+    {
+        "category": "cryptomining",
+        "name": "adblock-nocoin-list",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/adblock-nocoin-list/list.txt"
+    },
+    {
+        "category": "ads",
+        "name": "adguard-simplified",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/adguard-simplified/list.txt"
+    },
+    {
+        "category": "ads",
+        "name": "anudeepnd-adservers",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/anudeepnd-adservers/list.txt"
+    },
+    {
+        "category": "ads",
+        "name": "disconnect.me-ad",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-ad/list.txt"
+    },
+    {
+        "category": "malvertising",
+        "name": "disconnect.me-malvertising",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malvertising/list.txt"
+    },
+    {
+        "category": "malware",
+        "name": "disconnect.me-malware",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malware/list.txt"
+    },
+    {
+        "category": "tracking",
+        "name": "disconnect.me-tracking",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-tracking/list.txt"
+    },
+    {
+        "category": "ads",
+        "name": "easylist",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist/list.txt"
+    },
+    {
+        "category": "privacy",
+        "name": "easyprivacy",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/easyprivacy/list.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "eth-phishing-detect",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt"
+    },
+    {
+        "category": "ads",
+        "name": "fademind-add.2o7net",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.2o7net/list.txt"
+    },
+    {
+        "category": "dead",
+        "name": "fademind-add.dead",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.dead/list.txt"
+    },
+    {
+        "category": "risk",
+        "name": "fademind-add.risk",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.risk/list.txt"
+    },
+    {
+        "category": "spam",
+        "name": "fademind-add.spam",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.spam/list.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "kadhosts",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/kadhosts/list.txt"
+    },
+    {
+        "category": "malware",
+        "name": "malwaredomainlist.com",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomainlist.com/list.txt"
+    },
+    {
+        "category": "malware",
+        "name": "malwaredomains.com-immortaldomains",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-immortaldomains/list.txt"
+    },
+    {
+        "category": "malware",
+        "name": "malwaredomains.com-justdomains",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomains.com-justdomains/list.txt"
+    },
+    {
+        "category": "spam",
+        "name": "matomo.org-spammers",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/matomo.org-spammers/list.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "mitchellkrogza-badd-boyz-hosts",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/mitchellkrogza-badd-boyz-hosts/list.txt"
+    },
+    {
+        "category": "ads",
+        "name": "pgl.yoyo.org",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/pgl.yoyo.org/list.txt"
+    },
+    {
+        "category": "ransomware",
+        "name": "ransomwaretracker.abuse.ch",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/ransomwaretracker.abuse.ch/list.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "someonewhocares.org",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/someonewhocares.org/list.txt"
+    },
+    {
+        "category": "spam",
+        "name": "spam404.com",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/spam404.com/list.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "stevenblack",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/stevenblack/list.txt"
+    },
+    {
+        "category": "phishing",
+        "name": "winhelp2002.mvps.org",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/winhelp2002.mvps.org/list.txt"
+    },
+    {
+        "category": "cryptomining",
+        "name": "zerodot1-coinblockerlists-browser",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/zerodot1-coinblockerlists-browser/list.txt"
+    },
+    {
+        "category": "malware",
+        "name": "zeustracker.abuse.ch",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/hectorm/hmirror/master/data/zeustracker.abuse.ch/list.txt"
+    },
+    {
+        "category": "fingerprint",
+        "name": "AudioFp",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt"
+    },
+    {
+        "category": "fingerprint",
+        "name": "Canvas",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt"
+    },
+    {
+        "category": "tracking",
+        "name": "WebRTC",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt"
+    },
+    {
+        "category": "corporate",
+        "name": "NSABlocklist",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Anti-Corp/hosts/NSABlocklist.txt"
+    },
+    {
+        "category": "spam",
+        "name": "toxic_domains_whole",
+        "type": "domain",
+        "url": "https://www.stopforumspam.com/downloads/toxic_domains_whole.txt"
+    },
+    {
+        "category": "searchengine",
+        "name": "searchengine",
+        "type": "domain",
+        "url": "https://smokingwheels.github.io/Pi-hole/searchengine"
+    },
+    {
+        "category": "searchengine",
+        "name": "searchengine1",
+        "type": "domain",
+        "url": "https://smokingwheels.github.io/Pi-hole/searchengine1"
+    },
+    {
+        "category": "unknown",
+        "name": "fromlog",
+        "type": "domain",
+        "url": "htps://smokingwheels.github.io/Pi-hole/fromlog"
+    },
+    {
+        "category": "unknown",
+        "name": "fromlogtosh",
+        "type": "domain",
+        "url": "https://smokingwheels.github.io/Pi-hole/fromlogtosh"
+    },
+    {
+        "category": "unknown",
+        "name": "fromlogtosh",
+        "type": "domain",
+        "url": "https://smokingwheels.github.io/Pi-hole/fromlogtosh"
+    },
+    {
+        "category": "phishing",
+        "name": "Discord Phishing URLs",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt"
+    },
+    {
+        "category": "disposable",
+        "name": "Disposable Emails Domains List",
+        "type": "domain",
+        "url": "https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/master/disposable_email_blocklist.conf"
+    }
+]

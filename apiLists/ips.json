@@ -1,0 +1,236 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/main/blacklist_ips_for_fortinet_firewall_aa.txt"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/main/blacklist_ips_for_fortinet_firewall_ab.txt"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/main/botnets_zombies_scanner_spam_ips.txt"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/main/botnets_zombies_scanner_spam_ips_ipv6.txt"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/alienvault_reputation.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/asprox_c2.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_banjori.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_bebloh.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_c2.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_cl.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_cryptowall.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_dircrypt.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_dyre.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_geodo.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_hesperbot.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_matsnu.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_necurs.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_p2pgoz.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_pushdo.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_pykspa.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_qakbot.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_ramnit.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_ranbyus.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_simda.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_suppobox.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_symmi.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_tinba.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bambenek_volatile.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bbcan177_ms1.netset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bbcan177_ms3.netset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bds_atif.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_blockchain_info_1d.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_blockchain_info_30d.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_blockchain_info_7d.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_nodes.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_nodes_1d.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_nodes_30d.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_nodes_7d.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_apache.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_bots.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_bruteforce.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_ftp.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_imap.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_mail.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_sip.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_ssh.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_strongips.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_net_ua.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+   {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset"
+  }
+]
