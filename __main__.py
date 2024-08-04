@@ -1,7 +1,25 @@
-import sys, os, subproccess, cmd, string
+import sys, os, subprocess, cmd, string
 
 class CLIbase(cmd.Cmd):
-    intro = 'Bienvenue dans l\'outil d\'analyse réseau. Tapez help ou ? pour voir les commandes disponibles.'
+    intro = (
+        Fore.MAGENTA + Back.WHITE + """
+            ________  ______                                                                             
+           /_______/\/_____/\                                                                            
+    _______\__.::._\/\::::_\/_     _______                                                               
+   /______/\  \::\ \  \:\/___/\   /______/\                                                              
+   \__::::\/  _\::\ \__\_::._\:\  \__::::\/                                                              
+             /__\::\__/\ /____\:\                                                                        
+             \________\/ \_____\/                                                                        
+                                                                                                         
+ ___ __ __   ________   __        ________  ______    ________  ______   __  __   ______       ______    
+/__//_//_/\ /_______/\ /_/\      /_______/\/_____/\  /_______/\/_____/\ /_/\/_/\ /_____/\     /_____/\   
+\::\| \| \ \\::: _  \ \\:\ \     \__.::._\/\:::__\/  \__.::._\/\:::_ \ \\:\ \:\ \\::::_\/_    \__:::\ \  
+ \:.      \ \\::(_)  \ \\:\ \       \::\ \  \:\ \  __   \::\ \  \:\ \ \ \\:\ \:\ \\:\/___/\      /::/ /  
+  \:.\-/\  \ \\:: __  \ \\:\ \____  _\::\ \__\:\ \/_/\  _\::\ \__\:\ \ \ \\:\ \:\ \\_::._\:\     \::\/_  
+   \. \  \  \ \\:.\ \  \ \\:\/___/\/__\::\__/\\:\_\ \ \/__\::\__/\\:\_\ \ \\:\_\:\ \ /____\:\      /__/\ 
+    \__\/ \__\/ \__\/\__\/ \_____\/\________\/ \_____\/\________\/ \_____\/ \_____\/ \_____\/      \__\/
+"""
+    ).replace(Fore.MAGENTA, '\033[35m').replace(Back.WHITE, '\033[47m')
     prompt = '(AnalyseReseau) '
 
     def do_exit(self, arg):
@@ -33,23 +51,18 @@ class CLIbase(cmd.Cmd):
 
     # Définition des méthodes pour les analyses Linux
     def startStaticLinux(self):
-        print("Démarrage de l'analyse statique pour Linux...")
-        subprocess.run(["./linux/StaticIpCheck.sh"], shell=True)
+        print("\033[35m" + "Démarrage de l'analyse statique pour Linux..." + "\033[0m")
 
     def startDynamicLinux(self):
-        print("Démarrage de l'analyse dynamique pour Linux...")
-        subprocess.run(["./linux/DynamicIpCheck.sh"], shell=True)
+        print("\033[35m" + "Démarrage de l'analyse dynamique pour Linux..." + "\033[0m")
 
     # Définition des méthodes pour les analyses Windows (à compléter)
     def startStaticWindows(self):
-        print("Démarrage de l'analyse statique pour Windows...")
-        # Exemple avec PowerShell
-        subprocess.run(["powershell", "./windows/StaticIpCheck.ps1"])
+        print("\033[35m" + "Démarrage de l'analyse statique pour Windows..." + "\033[0m")
 
     def startDynamicWindows(self):
-        print("Démarrage de l'analyse dynamique pour Windows...")
-        # Exemple avec PowerShell
-        subprocess.run(["powershell", "./windows/DynamicIpCheck.ps1"])
+        print("\033[35m" + "Démarrage de l'analyse dynamique pour Windows..." + "\033[0m")
 
 if __name__ == '__main__':
     CLIbase().cmdloop()
+
