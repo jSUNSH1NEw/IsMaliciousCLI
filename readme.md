@@ -41,6 +41,9 @@ Description Static check : Rentré une ou un groupe d'ip ou de domains afin de s
 Description Dynamic check  : Collectez les infos des call ouvert sur differente interface reseaux
 Crée une copie avec les infos dans un tableaux md qui sont ensuite concorder par rapport au listes 
 
+Os version 
+ - faire un branche windows 
+ - faire une branche linux 
 
 Static Check
 - Check d'une ou plusieurs ip
@@ -52,6 +55,11 @@ Dynamical check
 - Check des ip lier au process PID
 - Check des ip lier a netstas level 1
 - Faire une Scan reseaux et check les ip contenu dans le scan 
+
+Automatisation 
+ - ajout de nouvelle ip ou domain suite au recherche user
+ - ajout de nouvelle ip ou domain suite apres le call et sur certaine api ou site 
+ - faire un tri des ip non trer sur les repos appeler par l'api 
 
 
 

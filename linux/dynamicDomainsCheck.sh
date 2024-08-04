@@ -1,0 +1,1 @@
+Check if im on a LINUX !!!! 
